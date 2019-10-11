@@ -1,1 +1,1 @@
-FROM rycus86/prometheus-node-exporter:aarch64
+FROM prom/node-exporter
