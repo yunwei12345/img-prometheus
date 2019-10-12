@@ -6,13 +6,13 @@
   https://cr.console.aliyun.com/repository/cn-beijing/meowbitee/prometheus/build
 	
 	
-  registry.cn-beijing.aliyuncs.com/meowbitee/prometheus:v1                  prometheus
+  registry.cn-beijing.aliyuncs.com/meowbitee/prometheus:v1                                   prometheus
 	
 	
-  registry.cn-beijing.aliyuncs.com/meowbitee/prometheus:v2                   node-exporter
+  registry.cn-beijing.aliyuncs.com/meowbitee/prometheus:v2                                   node-exporter
 	
 	
-  registry.cn-beijing.aliyuncs.com/meowbitee/prometheus:5.3.4                grafana
+  registry.cn-beijing.aliyuncs.com/meowbitee/prometheus:5.3.4                                grafana
    
    
 #  使用方法
