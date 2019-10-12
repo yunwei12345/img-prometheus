@@ -27,4 +27,4 @@
 
 mkdir /opt/img-prometheus -p
 cp docker-compose.yml /opt/prometheus/
-docker-compose up 
+docker-compose up
