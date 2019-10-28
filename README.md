@@ -26,7 +26,7 @@
 	 
    docker pull registry.cn-beijing.aliyuncs.com/meowbitee/prometheus:5.3.4
     
-   docker run -d -p 9090:9090 --name=prometheus registry.cn-beijing.aliyuncs.com/meowbitee/prometheus:v1
+   docker run -d -p 9090:9090 -v ./prometheus/config/prometheus.yml /etc/prometheus/prometheus.yml --name=prometheus registry.cn-beijing.aliyuncs.com/meowbitee/prometheus:v1
 	 
    docker run -d -p 9100:9100  registry.cn-beijing.aliyuncs.com/meowbitee/prometheus:v2
 	 
