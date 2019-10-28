@@ -17,7 +17,7 @@
    
 #  使用方法
  
-   docker login --username=devops1 registry.cn-beijing.aliyuncs.com
+   
 	 
 	 
    docker pull registry.cn-beijing.aliyuncs.com/meowbitee/prometheus:v1
